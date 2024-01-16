@@ -1,4 +1,5 @@
 ### Hi there 👋
+im a professional developer who is committing their entire lives to developing various repositories :-) enjoy
 
 <!--
 **monalisberg/monalisberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
